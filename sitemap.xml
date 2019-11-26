@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<url> <loc>http://localhost:8000/</loc> </url>
+<url> <loc>http://localhost:8000/</loc> </url>
+<url> <loc>http://localhost:8000/frameworks</loc> </url>
+<url> <loc>http://localhost:8000/visualizations</loc> </url>
+<url> <loc>http://localhost:8000/patterns</loc> </url>
+</urlset>
